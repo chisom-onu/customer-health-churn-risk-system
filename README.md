@@ -181,6 +181,6 @@ I apply the same principle to customer accounts.
 ## Built By
 
 **Chisom Onu**  
-Customer Success Manager | Onboarding, Retention & Account Growth
+Customer Success Manager | Onboarding, Retention & Account Management
 
 This project is part of my Customer Success portfolio and demonstrates how I approach account health, churn prevention, risk prioritization, and proactive customer management.
