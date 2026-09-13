@@ -1,6 +1,6 @@
 # Customer Health & Churn Risk System
 
-### An early-warning framework for Customer Success teams
+### A proactive Customer Success framework for identifying risk before churn
 
 Customers rarely become churn risks overnight.
 
@@ -136,6 +136,33 @@ Instead of sending a generic "just checking in" email, I would:
 The goal is not simply to increase the score.
 
 The goal is to **restore the customer's path to value before the account reaches a renewal crisis.**
+
+---
+
+## Included Template
+
+This repository includes a practical Excel workbook:
+
+**`customer-health-churn-risk-template.xlsx`**
+
+The workbook contains:
+
+- A weighted Customer Health Score Tracker
+- A Risk Trigger Log
+- A Health Scoring Guide
+- A simple portfolio health dashboard
+- Recommended actions based on account health status
+- Sample fictional accounts to demonstrate how the system works
+
+The scoring model uses five weighted signals:
+
+- Product Adoption: 30%
+- Onboarding Progress: 20%
+- Customer Engagement: 20%
+- Support Experience: 15%
+- Customer Sentiment: 15%
+
+The template is designed to help a Customer Success Manager move from scattered customer signals to a clearer view of account risk, priorities, and next actions.
 
 ---
 
