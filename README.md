@@ -143,7 +143,7 @@ The goal is to **restore the customer's path to value before the account reaches
 
 This repository includes a practical Excel workbook:
 
-**`customer-health-churn-risk-template.xlsx`**
+[**Download the Customer Health & Churn Risk Template**](./customer-health-churn-risk-template.xlsx)
 
 The workbook contains:
 
@@ -183,4 +183,4 @@ I apply the same principle to customer accounts.
 **Chisom Onu**  
 Customer Success Manager | Onboarding, Retention & Account Management
 
-This project is part of my Customer Success portfolio and demonstrates how I approach account health, churn prevention, risk prioritization, and proactive customer management.
+This project is part of my Customer Success portfolio and demonstrates how I approach account health, churn prevention, risk prioritization, retention, and proactive account management.
